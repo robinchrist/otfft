@@ -1,3 +1,5 @@
 build/
 compile_commands.json
 .cache/
+CMakeUserPresets.json
+test_package/CMakeUserPresets.json
